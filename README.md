@@ -5,4 +5,4 @@ The assignment was to create a calendar app for a person to plan and save events
 https://github.com/drewml08/Week5-hw
 https://drewml08.github.io/Week5-hw/
 
-![Screenshot](./Screenshot.jpg)
+![Screenshot](./Assets/image/Screenshot.jpg)
